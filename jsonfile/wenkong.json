@@ -1,0 +1,13 @@
+[{
+    "id":2,
+    "name":"文控中心",
+    "description":"文控中心",
+    "url":"http://www.telpo.net",
+    "icon":"/appframe/web/icon/notice.png",
+    "icon_group_pc": "/appframe/web/icon/notice_group_pc.bmp",
+    "icon_group":"/appframe/web/icon/notice_group.png",
+    "icon_group_selected":"/appframe/web/icon/notice_group_selected.png",
+    "api_key":"123456",
+    "notice_way":3,
+    "show_way":1
+}]

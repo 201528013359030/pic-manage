@@ -1,0 +1,24 @@
+[{
+    "id":6,
+    "name":"测试",
+    "description":"cc",
+    "url":"http://192.168.139.173:8080/activiti2.0/loginAction_loginPoint.action?type=list&uid=&auth_token=&provider=sipsys",
+    "icon":"/appframe/web/icon/leave.png",
+    "icon_group":"/appframe/web/icon/searchinfo_group.png",
+    "icon_group_selected":"/appframe/web/icon/searchinfo_group_selected.png",
+    "api_key":"123456",
+    "notice_way":3,
+    "show_way":1
+},
+{
+    "id":7,
+    "name":"测试7",
+    "description":"cc",
+    "url":"http://192.168.139.173:8080/activiti2.0/loginAction_loginPoint.action?type=list&uid=&auth_token=&provider=sipsys",
+    "icon":"/appframe/web/icon/leave.png",
+    "icon_group":"/appframe/web/icon/searchinfo_group.png",
+    "icon_group_selected":"/appframe/web/icon/searchinfo_group_selected.png",
+    "api_key":"123456",
+    "notice_way":3,
+    "show_way":1
+}]
