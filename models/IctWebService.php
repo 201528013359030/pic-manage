@@ -43,7 +43,8 @@ class IctWebService extends Model
         }
         $curl = new Curl();
         $url = $this->url . "auth.gettoken";
-        $params['name']="18900913302";
+//         $params['name']="18900913302";
+        $params['name']="buliping";
         $params['password']="123456";
         $params['api_key']="36116967d1ab95321b89df8223929b14207b72b1";
         $elggAdmin = json_decode($curl->post($url, $params), true);
